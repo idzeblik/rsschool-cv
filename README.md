@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://idzeblik.github.io/rsschool-cv/cv
